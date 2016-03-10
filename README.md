@@ -13,7 +13,7 @@ Podmienky vzniku politickej strany a politického hnutia (ďalej len „strana�
 * [ ] Ciele činnosti strany
 * [ ] Program strany
 * [ ] Stanovy strany
-* [ ] Zoznam 10 000 občanov, ktorí súhlasia s vznikom strany
+* [ ] Zoznam 10 000 **občanov**, ktorí súhlasia s vznikom strany
 * [ ] Správny poplatok za konanie o registrácii (663,50 EUR)
 * [ ] Adresa sídla strany
 * [ ] Podanie návrhu na zaregistrovanie strany
@@ -38,6 +38,7 @@ Prípravný výbor strany môže oznámiť Ministerstvu Vnútra, že začal zbie
 * **deň začatia zbierania podpisov** na zoznam občanov.
 
 Oznámenie ministerstvo bezodkladne zverejní na svojom webovom sídle na dobu 180 dní a po túto dobu ministerstvo:
+
  1. neprijme a nezverejní oznámenie iného prípravného výboru s názvom strany alebo skratkou zhodnou s názvom strany alebo skratkou vo zverejnenom oznámení,
  2. nerozhodne o registrácii strany s názvom strany alebo skratkou zhodnou s názvom strany alebo skratkou uvedenou vo zverejnenom oznámení a
  3. nevykoná zmenu názvu zaregistrovanej strany alebo skratky v registri strán v prípade, ak sa názov strany alebo skratka nelíši od názvu strany alebo skratky uvedenej vo zverejnenom oznámení.
@@ -53,15 +54,18 @@ Návrh na registráciu strany podáva prípravný výbor, ktorý musí byť najm
 V návrhu musia byť uvedené mená, priezviská, rodné čísla, adresy trvalého pobytu všetkých členov prípravného výboru a určený splnomocnenec, ktorý bude konať v mene prípravného výboru.
 
 Prílohou návrhu musia byť tieto doklady:
+
 * **zoznam občanov**, ktorí súhlasia, aby strana vznikla (zoznam musí podpísať najmenej 10 000 občanov, ktorí uvedú meno, priezvisko, adresu trvalého pobytu a číslo občianskeho preukazu),
+``` V zákone sa hovorí, že to majú byť občania a nie, že musia mať 18 rokov! ```
 * **stanovy** strany vo dvoch vyhotoveniach,
 * **doklad o zaplatení správneho poplatku** (potvrdenie z pošty alebo výpis z účtu banky o uskutočnení prevodu),
 * vyhlásenie o **adrese sídla** strany s uvedením obce, názov ulice a čísla domu, podpísané splnomocnencom (sídlo strany musí byť na území Slovenskej republiky).
 
-Správny poplatok za konanie o registrácii strany vo výške 663,50 eur je potrebné uhradiť Ministerstvu vnútra Slovenskej republiky, Drieňová 22, 826 86 Bratislava 29,
-na číslo účtu v tvare IBAN: SK03 6500 0014 0900 2054 5796, variabilný symbol 2210042.
+Správny poplatok za konanie o registrácii strany vo výške 663,50 eur je potrebné uhradiť Ministerstvu vnútra Slovenskej republiky na číslo účtu v tvare IBAN: SK03 6500 0014 0900 2054 5796, variabilný symbol 2210042.
 
-Konanie o registrácii strany upravuje § 7 zákona o politických stranách. Konanie začína dňom, keď bol ministerstvu doručený návrh na registráciu podľa § 6 zákona o politických stranách. Ak návrh nemá nedostatky alebo nie je dôvod na odmietnutie registrácie, ministerstvo stranu zaregistruje do 15 dní odo dňa začatia konania. Rozhodnutie o registrácii strany sa nevydáva. Jedno vyhotovenie stanov s vyznačeným dátumom a číslom registrácie strany ministerstvo zašle splnomocnencovi.
+Konanie o registrácii strany upravuje § 7 zákona o politických stranách. Konanie začína dňom, keď bol návrh na registráciu podľa § 6 zákona o politických stranách doručený na adresu Ministerstva vnútra Slovenskej republiky, Drieňová 22, 826 86 Bratislava 29.
+
+Ak návrh nemá nedostatky alebo nie je dôvod na odmietnutie registrácie, ministerstvo stranu zaregistruje *do 15 dní odo dňa začatia konania*. Rozhodnutie o registrácii strany sa nevydáva. Jedno vyhotovenie stanov s vyznačeným dátumom a číslom registrácie strany ministerstvo zašle splnomocnencovi.
 
 ## II. Dokumenty
 
