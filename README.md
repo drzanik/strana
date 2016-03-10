@@ -1,0 +1,5 @@
+*Všetky textové dokumenty v tomto projekte sú vo formáte [markdown (*.md)](https://guides.github.com/features/mastering-markdown/)*
+
+# Návrh štruktúry a fungovania politickej strany
+
+Choď do vetvy develop
