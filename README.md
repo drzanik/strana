@@ -66,7 +66,9 @@ V návrhu musia byť uvedené mená, priezviská, rodné čísla, adresy trvalé
 Prílohou návrhu musia byť tieto doklady:
 
 * **zoznam občanov**, ktorí súhlasia, aby strana vznikla (zoznam musí podpísať najmenej 10 000 občanov, ktorí uvedú meno, priezvisko, adresu trvalého pobytu a číslo občianskeho preukazu),
-``` V zákone sa hovorí, že to majú byť občania a nie, že musia mať 18 rokov! ```
+``` V zákone sa hovorí, že to majú byť občania a nie, že musia mať 18 rokov!
+    Ako je to v zákone s tým, že to musia občania vlastnoručne podpísať?```
+
 * **stanovy** strany vo dvoch vyhotoveniach, 
 * **doklad o zaplatení správneho poplatku** (potvrdenie z pošty alebo výpis z účtu banky o uskutočnení prevodu),
 * vyhlásenie o **adrese sídla** strany s uvedením obce, názov ulice a čísla domu, podpísané splnomocnencom (sídlo strany musí byť na území Slovenskej republiky).
