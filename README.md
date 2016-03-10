@@ -2,4 +2,4 @@
 
 # Návrh štruktúry a fungovania politickej strany
 
-Choď do vetvy develop
+Choď do vetvy [develop](https://github.com/drzanik/strana/blob/develop/README.md) pre najnovšie informácie.
