@@ -13,5 +13,7 @@ Vyjadrením súhlasu so založením strany STRANA sa nestávate jej členom a an
 > _Vlastnoručný podpis_
 
 --
+Prípravný výbor STRANY,
 Adresa STRANY, tel. STRANY, e-mail STRANY, web STRANY
- 
+--
+Osobné údaje sú povinné údaje v zmysle zákona č. 85/2005 Z. z. o politických stranách a budú použité výlučne na registráciu p olitickej strany STRANA. 
