@@ -20,9 +20,9 @@ Podmienky vzniku politickej strany a politického hnutia (ďalej len „strana�
 * [ ] Zvolenie štatutárneho orgánu strany
 * [ ] Zapísanie štatutárneho orgánu do registra strán
 
-### Dokumenty
+### Dokumenty strany
 
-#### Stanovy
+#### Stanovy strany
 
 Stanovy strany musia obsahovať:
 
@@ -34,7 +34,6 @@ Stanovy strany musia obsahovať:
 * **zásady hospodárenia** strany,
   - ustanovenia o **organizačných jednotkách** strany, ak budú zriadené, najmä vymedzenie rozsahu, v akom môžu v mene strany nadobúdať majetok, hospodáriť a nakladať s ním, prípadne nadobúdať iné majetkové práva, a vymedzenie rozsahu, v akom môžu konať a zaväzovať sa v mene strany (organizačné jednotky strany nie sú právnickými osobami),
   - spôsob **naloženia s majetkovým zostatkom**, ktorý vyplynie z likvidácie majetku a zo záväzkov prípade zrušenia strany.
-
 
 ### Finančné náklady
 
@@ -49,6 +48,17 @@ je potrebné uhradiť Ministerstvu vnútra Slovenskej republiky na číslo účt
 | Zmena názvu strany (uskutočňuje sa zmenou stanov strany a preto je potrebné zaplatiť 2x 33 EUR) |    66,00 EUR |
 | Vyhotovenie výpisu z registra strán                                                             |     5,00 EUR |
 | Výmaz strany z registra strán                                                                   |    33,00 EUR |
+
+
+## Orgány strany
+
+### Prípravný výbor strany
+
+Strana je právnická osoba, ktorá vzniká zapísaním do registra politických strán. Do vzniku strany koná vo veciach súvisiacich s jej vznikom prípravný výbor, ktorý musí byť najmenej trojčlenný. Členom prípravného výboru strany môže byť občan, ktorý dovŕšil 18 rokov veku a má spôsobilosť na právne úkony v plnom rozsahu.
+
+### Štatutárny orgán strany
+
+Štatutárnym orgánom strany alebo členom štatutárneho orgánu strany môže byť občan, ktorý dovŕšil 18 rokov veku a má spôsobilosť na právne úkony v plnom rozsahu.
 
 
 ## Vznik politickej strany
@@ -81,7 +91,7 @@ Ak prípravný výbor v lehote 180 dní nepredloží ministerstvu návrh na regi
 
 ### Registrácia
 
-Podľa § 6 ods. 1 zákona o politických stranách, strana vzniká dňom zápisu do registra strán.
+Podľa § 6 ods. 1 zákona o politických stranách, strana vzniká dňom zápisu do registra strán, ktorý vedie Ministerstvo vnútra SR.
 
 #### Návrh na registráciu
 
