@@ -20,6 +20,36 @@ Podmienky vzniku politickej strany a politického hnutia (ďalej len „strana�
 * [ ] Zvolenie štatutárneho orgánu strany
 * [ ] Zapísanie štatutárneho orgánu do registra strán
 
+### Dokumenty
+
+#### Stanovy
+
+Stanovy strany musia obsahovať:
+
+* **názov strany a jej skratku**, ak sa má používať (názov strany a jej skratka sa musí líšiť od názvu a skratky strany, ktorá už bola zaregistrovaná),
+* **program strany** s uvedením **cieľov činnosti**,
+* **práva a povinnosti členov** strany,
+* **orgány strany**, spôsob ich voľby a vymedzenie ich právomoci,
+* spôsob, akým **štatutárny orgán** koná v mene strany, či a v akom rozsahu môžu robiť právne úkony v mene strany aj iní jej členovia alebo jej zamestnanci,
+* **zásady hospodárenia** strany,
+  - ustanovenia o **organizačných jednotkách** strany, ak budú zriadené, najmä vymedzenie rozsahu, v akom môžu v mene strany nadobúdať majetok, hospodáriť a nakladať s ním, prípadne nadobúdať iné majetkové práva, a vymedzenie rozsahu, v akom môžu konať a zaväzovať sa v mene strany (organizačné jednotky strany nie sú právnickými osobami),
+  - spôsob **naloženia s majetkovým zostatkom**, ktorý vyplynie z likvidácie majetku a zo záväzkov prípade zrušenia strany.
+
+
+### Finančné náklady
+
+#### Správne poplatky Ministerstvu vnútra Slovenskej republiky
+
+je potrebné uhradiť Ministerstvu vnútra Slovenskej republiky na číslo účtu v tvare IBAN: SK03 6500 0014 0900 2054 5796 (Slovenská pošta, a.s.), variabilný symbol 2210042, konštantný symbol: 3818.
+
+| Služba                                                                                          |   Poplatok   |
+| :---------------------------------------------------------------------------------------------- | -----------: |
+| Návrh na registráciu strany                                                                     |   663,50 EUR |
+| Zmena adresy sídla, štatutárneho orgánu, stanov a predloženie predloženie nových stanov         |    33,00 EUR |
+| Zmena názvu strany (uskutočňuje sa zmenou stanov strany a preto je potrebné zaplatiť 2x 33 EUR) |    66,00 EUR |
+| Vyhotovenie výpisu z registra strán                                                             |     5,00 EUR |
+| Výmaz strany z registra strán                                                                   |    33,00 EUR |
+
 
 ## Vznik politickej strany
 
@@ -74,10 +104,6 @@ Ako je to v zákone s tým, že to musia občania vlastnoručne podpísať?
 * **doklad o zaplatení správneho poplatku** (potvrdenie z pošty alebo výpis z účtu banky o uskutočnení prevodu),
 * vyhlásenie o **adrese sídla** strany s uvedením obce, názov ulice a čísla domu, podpísané splnomocnencom (sídlo strany musí byť na území Slovenskej republiky).
 
-#### Správny poplatok
-
-Správny poplatok za konanie o registrácii strany vo výške **663,50 EUR** je potrebné uhradiť Ministerstvu vnútra Slovenskej republiky na číslo účtu v tvare IBAN: SK03 6500 0014 0900 2054 5796, variabilný symbol 2210042.
-
 #### Schválenie registrácie
 
 Ak návrh nemá nedostatky alebo nie je dôvod na odmietnutie registrácie, ministerstvo stranu zaregistruje *do 15 dní odo dňa začatia konania*. Rozhodnutie o registrácii strany sa nevydáva. Jedno vyhotovenie stanov s vyznačeným dátumom a číslom registrácie strany ministerstvo zašle splnomocnencovi.
@@ -99,6 +125,8 @@ Ministerstvo do 15 dní odo dňa začatia konania odmietne registráciu strany, 
 Rozhodnutie o odmietnutí registrácie sa doručuje splnomocnencovi do vlastných rúk. Proti rozhodnutiu o odmietnutí registrácie strany môže prípravný výbor podať žalobu na Najvyšší súd Slovenskej republiky v lehote do dvoch mesiacov odo dňa doručenia rozhodnutia. Deň nadobudnutia právoplatnosti rozsudku Najvyššieho súdu Slovenskej republiky, ktorým sa zrušilo rozhodnutie o odmietnutí registrácie strany a vec bola vrátená na ďalšie konanie je dňom začatia nového konania o registrácii strany, pričom ministerstvo je právnym názorom Najvyššieho súdu Slovenskej republiky viazané.
 
 
+## Počiatočná fáza existencie strany
+
 ### Voľba štatutárneho orgánu a jeho zápis do registra strán
 
 Podľa § 8 ods. 2 zákona o politických stranách musí byť štatutárny orgán strany **zvolený najneskôr do troch mesiacov od vzniku strany**.
@@ -108,22 +136,83 @@ Podľa § 8 ods. 3 zákona o politických stranách je strana povinná podať mi
 V prípade nesplnenia si vyššie uvedenej povinnosti, ministerstvo zapíše stranu v registri s dodatkom „v likvidácii“. Splnomocnenec prípravného výboru je povinný vymenovať likvidátora a bezodkladne oznámiť ministerstvu jeho meno, priezvisko, rodné číslo a adresu trvalého pobytu. Ak splnomocnenec tieto údaje ministerstvu neoznámi v lehote do 5 mesiacov od vzniku strany, ministerstvo zapíše do registra strán ako likvidátora splnomocnenca.
 
 
-## II. Dokumenty
+## Fungovanie strany
 
-### Stanovy
+### Zmena sídla strany
 
-Stanovy strany musia obsahovať:
-
-* **názov strany a jej skratku**, ak sa má používať (názov strany a jej skratka sa musí líšiť od názvu a skratky strany, ktorá už bola zaregistrovaná),
-* **program strany** s uvedením **cieľov činnosti**,
-* **práva a povinnosti členov** strany,
-* **orgány strany**, spôsob ich voľby a vymedzenie ich právomoci,
-* spôsob, akým **štatutárny orgán** koná v mene strany, či a v akom rozsahu môžu robiť právne úkony v mene strany aj iní jej členovia alebo jej zamestnanci,
-* **zásady hospodárenia** strany,
-  - ustanovenia o **organizačných jednotkách** strany, ak budú zriadené, najmä vymedzenie rozsahu, v akom môžu v mene strany nadobúdať majetok, hospodáriť a nakladať s ním, prípadne nadobúdať iné majetkové práva, a vymedzenie rozsahu, v akom môžu konať a zaväzovať sa v mene strany (organizačné jednotky strany nie sú právnickými osobami),
-  - spôsob **naloženia s majetkovým zostatkom**, ktorý vyplynie z likvidácie majetku a zo záväzkov prípade zrušenia strany.
+V prípade zmeny adresy sídla strany, návrh na zápis do registra strán podáva ministerstvu *štatutárny orgán do 15 dní* odo dňa keď k nej došlo. K návrhu musí byť priložené vyhlásenie o zmene adresy sídla strany podpísané štatutárnym zástupcom (pravosť podpisov musí byť osvedčená).
 
 
-## III. Potrebné finančné prostriedky
+### Zmena štatutárneho orgánu strany
 
-* Správny poplatok za konanie o registrácii (663,50 EUR)
+Návrh na zápis zmeny štatutárneho orgánu je povinný podať ministerstvu *štatutárny orgán* zapísaný v registri strán a v prípade viacčlenného štatutárneho orgánu všetci členovia štatutárneho orgánu zapísaní v registri strán. Návrh sa musí podať *do 15 dní* odo dňa, keď k zmene štatutárneho orgánu došlo. K návrhu musí byť priložené uznesenie orgánu strany, ktorý je podľa zaregistrovaných stanov príslušný na voľbu štatutárneho orgánu. Uznesenie musí byť podpísané štatutárnym orgánom alebo takým počtom členov štatutárneho orgánu, akým je potrebné toto rozhodnutie podľa stanov prijať, zapísanými v registri strán a novozvoleným štatutárnym orgánom alebo všetkými novozvolenými členmi štatutárneho orgánu (pričom pravosť podpisov musí byť osvedčená), to neplatí, ak štatutárny orgán alebo člen štatutárneho orgánu zapísaný v registri strán zomrel alebo ak bol vyhlásený za mŕtveho.
+
+
+### Zmena stanov, resp. prijatie nových stanov strany
+
+#### Zmena stanov strany
+
+Návrh na zápis zmeny zaregistrovaných stanov je povinný podať ministerstvu *štatutárny orgán*, a to *do 15 dní* odo dňa schválenia ich zmeny. K návrhu musí byť priložené:
+
+ * **uznesenie** orgánu strany príslušného podľa zaregistrovaných stanov na zmenu stanov, podpísané štatutárnym orgánom alebo takým počtom členov štatutárneho orgánu, akým je potrebné toto rozhodnutie podľa stanov prijať (pravosť podpisov musí byť osvedčená) a
+* **zmeny stanov** vo dvoch vyhotoveniach (vo forme dodatku k stanovám).
+
+#### Prijatie nových stanov strany
+
+Nové stanovy musia obsahovať ustanovenie o zrušení zaregistrovaných stanov s uvedením čísla a dátumu registrácie strany, vrátane všetkých dátumov a poradových čísiel zmien stanov, ktoré boli zapísané v registri strán. Návrh podáva *štatutárny orgán* ministerstvu *do 15 dní* od ich schválenia (pravosť podpisov musí byť osvedčená). K návrhu musí byť priložené:
+
+* uznesenie orgánu strany príslušného podľa zaregistrovaných stanov na schválenie nových stanov podpísané štatutárnym orgánom alebo takým počtom členov štatutárneho orgánu, akým je potrebné toto rozhodnutie podľa stanov prijať (pravosť podpisov musí byť osvedčená) a
+* nové stanovy vo dvoch vyhotoveniach.
+
+
+## Zánik strany
+
+Strana zaniká dňom, keď ministerstvo vykoná výmaz strany z registra strán. Zániku strany predchádza jej zrušenie s likvidáciou alebo bez likvidácie.
+
+Podľa § 14 zákona o politických stranách sa strana zrušuje:
+
+* dobrovoľným zrušením (s likvidáciou alebo bez likvidácie),
+* zlúčením s inou stranou,
+* vyhlásením konkurzu alebo zamietnutím návrhu na vyhlásenie konkurzu pre nedostatok majetku,
+* právoplatným rozhodnutím Najvyššieho súdu Slovenskej republiky o rozpustení strany alebo
+* z iných dôvodov uvedených v zákone o politických stranách (§ 8 ods. 5, § 30 ods. 8 a § 34 ods. 4)
+ 
+### Zrušenie strany bez likvidácie
+
+Ak sa nevyžaduje likvidácia podľa § 13 ods. 3 zákona o politických stranách, strana sa zrušuje bez likvidácie. Likvidácia sa nevyžaduje v prípade, ak:
+ 
+1. majetok a záväzky prechádzajú na už jestvujúcu stranu, ktorá je právnym nástupcom strany zrušenej zlúčením,
+2. strana nemá žiaden majetok,
+3. návrh na vyhlásenie konkurzu na majetok strany bol zamietnutý pre nedostatok majetku alebo konkurz vyhlásený na majetok strany bol zrušený z dôvodu, že majetok strany nepostačuje ani na úhradu výdavkov a odmenu správcu alebo po ukončení konkurzného konania nezostane strane žiaden majetok.
+
+Návrh na výmaz strany z registra strán sa podáva do 5 dní od zrušenia strany. Ak sa strana zrušuje dobrovoľným zrušením, návrh na výmaz strany z registra strán je povinný podať štatutárny orgán.
+
+K návrhu musia byť priložené:
+
+* uznesenie orgánu strany príslušného podľa zaregistrovaných stanov strany, ktorý rozhodol o dobrovoľnom zrušení strany, podpísané štatutárnym orgánom alebo takým počtom členov štatutárneho orgánu, akým je potrebné toto rozhodnutie podľa stanov prijať (pravosť podpisov musí byť osvedčená) a
+* vyhlásenie, že sa nevyžaduje likvidácia podľa § 13 ods. 3 písm. b) alebo písm. c) zákona o politických stranách, podpísané štatutárnym orgánom alebo takým počtom členov štatutárneho orgánu, akým je potrebné toto rozhodnutie podľa stanov prijať (pravosť podpisov musí byť osvedčená).
+ 
+
+### Zlúčenie strany s inou stranou
+
+Ak sa strana zrušuje zlúčením s inou stranou, návrh na výmaz strany z registra strán je povinný podať štatutárny orgán strany, ktorá sa zrušuje zlúčením. K návrhu musí byť priložené:
+
+* uznesenie orgánu strany príslušného podľa zaregistrovaných stanov strany, ktorý rozhodol o zrušení strany zlúčením s inou stranou, podpísané štatutárnym orgánom alebo takým počtom členov štatutárneho orgánu, akým je potrebné toto rozhodnutie podľa stanov prijať (pravosť podpisov musí byť osvedčená),
+* písomná zmluva o zlúčení strán.
+
+Zmluva o zlúčení strán musí byť podpísaná štatutárnymi orgánmi alebo takým počtom členov štatutárnych orgánov, akým je potrebné toto rozhodnutie podľa stanov zlučovaných strán prijať (pravosť podpisov musí byť osvedčená) a musí obsahovať:
+
+* označenie zlučovaných strán s uvedením dátumu a čísla registrácie oboch strán,
+* údaje o majetku a záväzkoch strany zrušenej zlúčením,
+* označenie právneho nástupcu strany zrušenej zlúčením.
+
+
+### Zrušenie strany s likvidáciou
+
+O zrušení strany s likvidáciou rozhoduje orgán strany príslušný podľa zaregistrovaných stanov, ktorý je povinný súčasne vymenovať likvidátora. Likvidátorom nesmie byť člen tejto strany, ak zákon o politických stranách neustanovuje inak.
+
+Zrušenie strany a údaje, ktoré sa zapisujú do registra strán, oznámi likvidátor ministerstvu do piatich dní od zrušenia strany. Zápisom prechádza pôsobnosť štatutárneho orgánu na likvidátora zapísaného v registri strán.
+
+K oznámeniu musí byť priložené uznesenie orgánu strany príslušného podľa zaregistrovaných stanov strany, ktorý rozhodol o zrušení strany s  likvidáciou, podpísané štatutárnym orgánom alebo takým počtom členov štatutárneho orgánu, akým je potrebné toto rozhodnutie podľa stanov prijať (pravosť podpisov musí byť osvedčená). Zápisom prechádza pôsobnosť štatutárneho orgánu na likvidátora zapísaného v registri strán.
+
+Likvidátor podá návrh na výmaz strany z registra strán najneskôr do 30 dní od skončenia likvidácie.
