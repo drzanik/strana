@@ -35,7 +35,7 @@ Stanovy strany musia obsahovať:
   - ustanovenia o **organizačných jednotkách** strany, ak budú zriadené, najmä vymedzenie rozsahu, v akom môžu v mene strany nadobúdať majetok, hospodáriť a nakladať s ním, prípadne nadobúdať iné majetkové práva, a vymedzenie rozsahu, v akom môžu konať a zaväzovať sa v mene strany (organizačné jednotky strany nie sú právnickými osobami),
   - spôsob **naloženia s majetkovým zostatkom**, ktorý vyplynie z likvidácie majetku a zo záväzkov prípade zrušenia strany.
 
-### Finančné náklady
+### Finančné náklady na vytvorenie strany
 
 #### Správne poplatky Ministerstvu vnútra Slovenskej republiky
 
@@ -48,6 +48,7 @@ je potrebné uhradiť Ministerstvu vnútra Slovenskej republiky na číslo účt
 | Zmena názvu strany (uskutočňuje sa zmenou stanov strany a preto je potrebné zaplatiť 2x 33 EUR) |    66,00 EUR |
 | Vyhotovenie výpisu z registra strán                                                             |     5,00 EUR |
 | Výmaz strany z registra strán                                                                   |    33,00 EUR |
+| Ročné náklady za vedenie podvojného účtovníctva (odhad)                                         | 1 500,00 EUR |  
 
 
 ## Orgány strany
@@ -106,10 +107,10 @@ V návrhu musia byť uvedené mená, priezviská, rodné čísla, adresy trvalé
 Prílohou návrhu musia byť tieto doklady:
 
 * **zoznam občanov**, ktorí súhlasia, aby strana vznikla (zoznam musí podpísať najmenej 10 000 občanov, ktorí uvedú meno, priezvisko, adresu trvalého pobytu a číslo občianskeho preukazu),
-```
-V zákone sa hovorí, že to majú byť občania a nie, že musia mať 18 rokov!
-Ako je to v zákone s tým, že to musia občania vlastnoručne podpísať?
-```
+
+> V zákone sa hovorí, že to majú byť občania a nie, že musia mať 18 rokov!
+> Ako je to v zákone s tým, že to musia občania vlastnoručne podpísať?
+
 * **stanovy** strany vo dvoch vyhotoveniach, 
 * **doklad o zaplatení správneho poplatku** (potvrdenie z pošty alebo výpis z účtu banky o uskutočnení prevodu),
 * vyhlásenie o **adrese sídla** strany s uvedením obce, názov ulice a čísla domu, podpísané splnomocnencom (sídlo strany musí byť na území Slovenskej republiky).
@@ -226,3 +227,96 @@ Zrušenie strany a údaje, ktoré sa zapisujú do registra strán, oznámi likvi
 K oznámeniu musí byť priložené uznesenie orgánu strany príslušného podľa zaregistrovaných stanov strany, ktorý rozhodol o zrušení strany s  likvidáciou, podpísané štatutárnym orgánom alebo takým počtom členov štatutárneho orgánu, akým je potrebné toto rozhodnutie podľa stanov prijať (pravosť podpisov musí byť osvedčená). Zápisom prechádza pôsobnosť štatutárneho orgánu na likvidátora zapísaného v registri strán.
 
 Likvidátor podá návrh na výmaz strany z registra strán najneskôr do 30 dní od skončenia likvidácie.
+
+## Hospodárenie strany
+
+### Záväzky strany
+
+Strana zodpovedá za svoje záväzky celým svojím majetkom. Členovia strany za záväzky strany ani nezodpovedajú, ani neručia.
+
+
+### Podnikanie strany
+
+Strana nesmie vo vlastnom mene podnikať a ani uzatvárať zmluvy o tichom spoločenstve. Strana môže založiť alebo stať sa spoločníkom obchodnej spoločnosti, musí však byť jediným zakladateľom alebo jediným spoločníkom; obchodná spoločnosť môže byť založená len na účel podnikania.
+
+> Za akým účelom a akou formou by strana mohla podnikať?
+
+Predmetom činnosti obchodnej spoločnosti, ktorú strana založila alebo sa stala jej jediným spoločníkom, môže byť len
+
+* prevádzkovanie vydavateľstiev, nakladateľstiev a tlačiarní,
+* publikačná a propagačná činnosť,
+* výroba a predaj predmetov propagujúcich program a činnosť strany,
+* usporadúvanie vzdelávacích a politických akcií,
+* výkon správy majetku strany.
+
+Obchodná spoločnosť nemôže byť uchádzačom alebo záujemcom o účasť na verejnom obstarávaní, ak obstarávateľom je právnická osoba ustanovená zákonom č. 523/2003 Z. z. o verejnom obstarávaní.
+
+### Účtovníctvo strany
+
+Strana je povinná účtovať v sústave **podvojného účtovníctva**.
+
+### Príjmy strany
+
+Príjmami strany môžu byť:
+
+* príjmy z členských príspevkov,
+* príjmy z darov a iných bezodplatných plnení,
+* príjmy z dedičstva,
+* príjmy z predaja alebo prenájmu jej hnuteľného majetku alebo nehnuteľností,
+* príjmy z úrokov z vkladov jej prostriedkov v bankách,
+* podiely na zisku z podnikania obchodných spoločností,
+* výnosy z cenných papierov verejne obchodovateľných na verejnom trhu,
+* príjmy z pôžičiek a úverov,
+* príspevky zo štátneho rozpočtu.
+
+> V prípade nepodnikania sú zrejme aplikovateľné len prvé 2 body
+
+#### Príjmy z pôžičiek a úverov
+
+Strana je povinná viesť osobitnú evidenciu o príjmoch z pôžičiek a úverov vrátane dátumu prijatia pôžičky alebo úveru, výšky pôžičky alebo úveru a dohodnutého termínu splatenia. V osobitnej evidencii sa uvádza aj meno, priezvisko a adresa trvalého pobytu, ak ide o fyzickú osobu, alebo obchodné meno, identifikačné číslo a adresa sídla, ak ide o právnickú osobu.
+
+#### Príjmy z darov a iných bezodplatných plnení
+
+Strana môže prijať dar alebo iné bezodplatné plnenie len na základe písomnej zmluvy, spĺňajúcej predpísané náležitosti.
+
+Strana je povinná viesť osobitnú evidenciu darov a iných bezodplatných plnení vrátane dátumu prijatia daru alebo iného bezodplatného plnenia, hodnoty a identifikačných údajov darcu alebo identifikačných údajov zmluvnej strany, ktorá poskytla iné bezodplatné plnenie.
+
+#### Príjmy z členských príspevkov
+
+Strana je povinná viesť osobitnú evidenciu prijatých členských príspevkov vrátane mena a priezviska člena strany a adresy jeho trvalého pobytu, ak ide o člena, ktorého členský príspevok v úhrne v danom roku dosiahol 829 € a viac. Členské príspevky nad 5 000 € môže strana prijať len bezhotovostnou platbou.
+
+Zoznam darcov je strana povinná zverejňovať na svojej internetovej stránke štvrťročne, najneskôr do 30 dní po ukončení kalendárneho štvrťroka. V zozname darcov strana uvedie meno, priezvisko a adresu trvalého pobytu darcu, ak ide o fyzickú osobu, ak ide o fyzickú osobu – podnikateľa aj obchodné meno, ak ide o právnickú osobu názov alebo obchodné meno a adresu sídla a hodnotu peňažného daru.
+
+Iným bezodplatným plnením sa na účely tohto zákona rozumie
+
+výpožička hnuteľnej veci alebo nehnuteľnosti,
+poskytnutie bezodplatnej služby,
+hodnota dlhu strany prevzatého fyzickou osobou alebo právnickou osobou,
+rozdiel medzi cenou obvyklou pri kúpe alebo nájme hnuteľnej veci alebo nehnuteľnosti a cenou dojednanou, ktorú strana uhradí fyzickej osobe alebo právnickej osobe, ak cena dojednaná je nižšia ako cena obvyklá; cenou obvyklou sa rozumie cena, za ktorú sa takáto hnuteľná vec alebo nehnuteľnosť obvykle predáva alebo prenajíma v určitom čase a na určitom mieste, alebo
+rozdiel medzi cenou obvyklou za poskytnutie služby a cenou dojednanou, ktorú strana uhradí fyzickej osobe alebo právnickej osobe, ak cena dojednaná je nižšia ako cena obvyklá; cenou obvyklou sa rozumie cena, za ktorú fyzická osoba podnikateľ alebo právnická osoba ponúka poskytovanie služby na trhu.
+Zákaz prijatia daru a iného bezodplatného plnenia
+Dary a iné bezodplatné plnenia nesmie strana prijať od
+
+štátu, Fondu národného majetku Slovenskej republiky, Slovenského pozemkového fondu, obce alebo vyššieho územného celku,
+právnických osôb, ktorých zriaďovateľom alebo zakladateľom je štát, Fond národného majetku Slovenskej republiky, Slovenský pozemkový fond, obec alebo vyšší územný celok,
+právnických osôb, v ktorých má majetkovú účasť štát, Fond národného majetku Slovenskej republiky, Slovenský pozemkový fond, obec alebo vyšší územný celok,
+občianskych združení, nadácií, neziskových organizácií poskytujúcich všeobecne prospešné služby, neinvestičných fondov, záujmových združení právnických osôb, združení obcí a organizácií s medzinárodným prvkom,
+verejnoprávnych inštitúcií a iných právnických osôb zriadených zákonom,
+fyzickej osoby, ktorá nie je občanom,
+právnickej osoby, ktorá má sídlo v zahraničí, ak jej väčšinovým vlastníkom nie je občan alebo právnická osoba, ktorá má sídlo na území Slovenskej republiky, okrem politickej strany, zoskupení politických strán, alebo právnických osôb, ktorých zakladateľom alebo väčšinovým vlastníkom je politická strana,
+fyzickej osoby alebo právnickej osoby, o ktorej nevie uviesť identifikačné údaje darcu alebo identifikačné údaje zmluvnej strany, ktorá poskytla iné bezodplatné plnenie.
+Strana môže prijať finančný dar hotovostnou platbou od jedného darcu len jedenkrát za príslušný kalendárny rok v hodnote daru najviac 5 000 €.
+
+Príspevky zo štátneho rozpočtu
+príspevok za hlasy získané vo voľbách,
+príspevok na činnosť,
+príspevok na mandát.
+Obmedzenie použitia príspevkov
+Príspevky zo štátneho rozpočtu nemôže strana použiť na
+
+pôžičky a úvery fyzickým osobám alebo právnickým osobám,
+zmluvy o tichom spoločenstve,
+podnikanie obchodnej spoločnosti, ktorú strana založila alebo sa stala jej jediným spoločníkom,
+ručenie za záväzky fyzických osôb alebo právnických osôb,
+darovanie,
+úhradu pokút a iných peňažných sankcií.
