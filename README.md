@@ -1,4 +1,4 @@
-*Dokument je vo formáte [markdown (*.md)](https://guides.github.com/features/mastering-markdown/)*
+*Dokument je vo formáte [markdown](https://guides.github.com/features/mastering-markdown/)*
 
 # Návrh štruktúry a fungovania politickej strany
 
