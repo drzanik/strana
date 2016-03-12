@@ -1,0 +1,1 @@
+# Ciele činnosti strany
