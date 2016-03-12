@@ -1,4 +1,7 @@
-# Politická strana _STRANA_
+
+# Zoznam občanov, ktorí súhlasia, aby politická strana (hnutie) vznikla (vzniklo)
+
+## Politická _STRANA_
 
 Vyjadrením súhlasu so založením strany STRANA sa nestávate jej členom a ani to neznamená, že sa výslovne stotožňujete so všetkými jej hodnotami a tézami.
 
